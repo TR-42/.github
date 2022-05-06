@@ -2,6 +2,8 @@
 
 [![kfujita's 42 stats](https://badge42.vercel.app/api/v2/cl2rttbbw001109l7z1owgvam/stats?cursusId=9&coalitionId=61)](https://github.com/JaeSeoKim/badge42)
 
+---
+
 ## 42cursus
 
 [![kfujita's 42 stats](https://badge42.vercel.app/api/v2/cl2rttbbw001109l7z1owgvam/stats?cursusId=21&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
@@ -14,6 +16,8 @@
 | ft_printf | [![kfujita's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl2rttbbw001109l7z1owgvam/project/2568577)](https://github.com/JaeSeoKim/badge42) | 2022-04-24 |
 | Born2beroot | [![kfujita's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl2rttbbw001109l7z1owgvam/project/2570449)](https://github.com/JaeSeoKim/badge42) | |
 | get_next_line | [![kfujita's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl2rttbbw001109l7z1owgvam/project/2570395)](https://github.com/JaeSeoKim/badge42) | |
+
+---
 
 ## Reloaded
 
