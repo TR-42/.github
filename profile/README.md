@@ -1,6 +1,6 @@
 ## C Piscine (December 13th, 2021 ~ January 7th, 2022)
 
-[![kfujita's 42 stats](https://badge42.vercel.app/api/v2/cl2rttbbw001109l7z1owgvam/stats?cursusId=9&coalitionId=61)](https://github.com/JaeSeoKim/badge42)
+[![kfujita's 42 stats](https://badge42.vercel.app/api/v2/cl2rttbbw001109l7z1owgvam/stats?cursusId=9&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
 
 Final Mark: 7.07
 
@@ -8,7 +8,7 @@ Final Mark: 7.07
 
 ## 42cursus (April 5th, 2022 ~ )
 
-[![kfujita's 42 stats](https://badge42.vercel.app/api/v2/cl2rttbbw001109l7z1owgvam/stats?cursusId=21&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
+[![kfujita's 42 stats](https://badge42.vercel.app/api/v2/cl2rttbbw001109l7z1owgvam/stats?cursusId=21)](https://github.com/JaeSeoKim/badge42)
 
 ### Lv.0
 
@@ -23,7 +23,7 @@ Final Mark: 7.07
 
 ## Reloaded
 
-[![kfujita's 42 stats](https://badge42.vercel.app/api/v2/cl2rttbbw001109l7z1owgvam/stats?cursusId=28&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
+[![kfujita's 42 stats](https://badge42.vercel.app/api/v2/cl2rttbbw001109l7z1owgvam/stats?cursusId=28)](https://github.com/JaeSeoKim/badge42)
 
 | Project Name | Score | Finished Date |
 | :---: | :---: | :---: |
