@@ -10,8 +10,6 @@ Final Mark: 7.07
 
 [![kfujita's 42 stats](https://badge42.vercel.app/api/v2/cl2rttbbw001109l7z1owgvam/stats?cursusId=21)](https://github.com/JaeSeoKim/badge42)
 
-### Lv.0
-
 | Project Name | Score | Finished Date |
 | :---: | :---: | :---: |
 | [Libft](https://github.com/TR-42/libft/tree/v1.0.0) | [![kfujita's 42 Libft Score](https://badge42.vercel.app/api/v2/cl2rttbbw001109l7z1owgvam/project/2568491)](https://github.com/JaeSeoKim/badge42) | 2022-04-22 |
