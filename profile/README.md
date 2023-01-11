@@ -8,7 +8,7 @@ Final Mark: 7.07
 
 ## 42cursus (April 5th, 2022 ~ )
 
-[![kfujita's 42 stats](https://badge42.vercel.app/api/v2/cl2rttbbw001109l7z1owgvam/stats?cursusId=21)](https://github.com/JaeSeoKim/badge42)
+[![kfujita's 42 stats](https://badge42.vercel.app/api/v2/cl2rttbbw001109l7z1owgvam/stats?cursusId=21&coalitionId=308)](https://github.com/JaeSeoKim/badge42)
 
 | Project Name | Score | Finished Date |
 | :---: | :---: | :---: |
