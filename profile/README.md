@@ -19,6 +19,7 @@ Final Mark: 7.07
 | [pipex](https://github.com/TR-42/pipex) | [![kfujita's 42 pipex Score](https://badge42.vercel.app/api/v2/cl2rttbbw001109l7z1owgvam/project/2620427)](https://github.com/JaeSeoKim/badge42) |  |
 | [so_long](https://github.com/TR-42/so_long) | [![kfujita's 42 so_long Score]()](https://github.com/JaeSeoKim/badge42) |  |
 | [push_swap](https://github.com/TR-42/push_swap) | [![kfujita's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl2rttbbw001109l7z1owgvam/project/2620426)](https://github.com/JaeSeoKim/badge42) |  |
+| [Philosophers](https://github.com/TR-42/philosophers) |  |  |
 
 ---
 
