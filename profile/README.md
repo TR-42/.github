@@ -17,7 +17,7 @@ Final Mark: 7.07
 | [get_next_line](https://github.com/TR-42/GetNextLine) | [![kfujita's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl2rttbbw001109l7z1owgvam/project/2570395)](https://github.com/JaeSeoKim/badge42) | 2022-05-31 |
 | [Born2beroot](https://github.com/TR-42/Born2BeRoot) | [![kfujita's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl2rttbbw001109l7z1owgvam/project/2570449)](https://github.com/JaeSeoKim/badge42) | 2022-06-13 |
 | [pipex](https://github.com/TR-42/pipex) | [![kfujita's 42 pipex Score](https://badge42.vercel.app/api/v2/cl2rttbbw001109l7z1owgvam/project/2620427)](https://github.com/JaeSeoKim/badge42) |  |
-| [FdF](https://github.com/TR-42/FdF) | [![kfujita's 42 FdF Score](https://badge42.vercel.app/api/v2/cl2rttbbw001109l7z1owgvam/project/2620430)](https://github.com/JaeSeoKim/badge42) |  |
+| [so_long](https://github.com/TR-42/so_long) | [![kfujita's 42 so_long Score]()](https://github.com/JaeSeoKim/badge42) |  |
 | [push_swap](https://github.com/TR-42/push_swap) | [![kfujita's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl2rttbbw001109l7z1owgvam/project/2620426)](https://github.com/JaeSeoKim/badge42) |  |
 
 ---
