@@ -16,9 +16,9 @@ Final Mark: 7.07
 | [ft_printf](https://github.com/TR-42/ft_printf) | [![kfujita's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl2rttbbw001109l7z1owgvam/project/2568577)](https://github.com/JaeSeoKim/badge42) | 2022-04-24 |
 | [get_next_line](https://github.com/TR-42/GetNextLine) | [![kfujita's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl2rttbbw001109l7z1owgvam/project/2570395)](https://github.com/JaeSeoKim/badge42) | 2022-05-31 |
 | [Born2beroot](https://github.com/TR-42/Born2BeRoot) | [![kfujita's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl2rttbbw001109l7z1owgvam/project/2570449)](https://github.com/JaeSeoKim/badge42) | 2022-06-13 |
-| [pipex](https://github.com/TR-42/pipex) | [![kfujita's 42 pipex Score](https://badge42.vercel.app/api/v2/cl2rttbbw001109l7z1owgvam/project/2620427)](https://github.com/JaeSeoKim/badge42) |  |
-| [so_long](https://github.com/TR-42/so_long) | [![kfujita's 42 so_long Score]()](https://github.com/JaeSeoKim/badge42) |  |
-| [push_swap](https://github.com/TR-42/push_swap) | [![kfujita's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl2rttbbw001109l7z1owgvam/project/2620426)](https://github.com/JaeSeoKim/badge42) |  |
+| [pipex](https://github.com/TR-42/pipex) | [![kfujita's 42 pipex Score](https://badge42.vercel.app/api/v2/cl2rttbbw001109l7z1owgvam/project/2620427)](https://github.com/JaeSeoKim/badge42) | 2023-02-19 |
+| [so_long](https://github.com/TR-42/so_long) | [![kfujita's 42 so_long Score](https://badge42.vercel.app/api/v2/cl2rttbbw001109l7z1owgvam/project/2995041)](https://github.com/JaeSeoKim/badge42) | 2023-04-29 |
+| [push_swap](https://github.com/TR-42/push_swap) | [![kfujita's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl2rttbbw001109l7z1owgvam/project/2620426)](https://github.com/JaeSeoKim/badge42) | 2023-03-16 |
 | [Philosophers](https://github.com/TR-42/philosophers) |  |  |
 
 ---
