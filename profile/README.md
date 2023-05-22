@@ -19,7 +19,13 @@ Final Mark: 7.07
 | [pipex](https://github.com/TR-42/pipex) | [![kfujita's 42 pipex Score](https://badge42.vercel.app/api/v2/cl2rttbbw001109l7z1owgvam/project/2620427)](https://github.com/JaeSeoKim/badge42) | 2023-02-19 |
 | [so_long](https://github.com/TR-42/so_long) | [![kfujita's 42 so_long Score](https://badge42.vercel.app/api/v2/cl2rttbbw001109l7z1owgvam/project/2995041)](https://github.com/JaeSeoKim/badge42) | 2023-04-29 |
 | [push_swap](https://github.com/TR-42/push_swap) | [![kfujita's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl2rttbbw001109l7z1owgvam/project/2620426)](https://github.com/JaeSeoKim/badge42) | 2023-03-16 |
-| [Philosophers](https://github.com/TR-42/philosophers) |  |  |
+| [Philosophers](https://github.com/TR-42/philosophers) | [![kfujita's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl2rttbbw001109l7z1owgvam/project/3080305)](https://github.com/JaeSeoKim/badge42) | 2023-05-12 |
+| [minishell](https://github.com/TR-42/minishell) | [![kfujita's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl2rttbbw001109l7z1owgvam/project/3080305)](https://github.com/JaeSeoKim/badge42) |  |
+
+| Exam Name | Score | Finished Date |
+| :---: | :---: | :---: |
+| Exam Rank 02 | [![kfujita's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl2rttbbw001109l7z1owgvam/project/3038583)](https://github.com/JaeSeoKim/badge42) | 2023-03-25 |
+| Exam Rank 03 | [![kfujita's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cl2rttbbw001109l7z1owgvam/project/3044915)](https://github.com/JaeSeoKim/badge42) | 2023-05-02 |
 
 ---
 
