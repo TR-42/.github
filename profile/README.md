@@ -46,3 +46,25 @@ Final Mark: 7.07
 | [Libft-02](https://github.com/TR-42/libft-02) | [![kfujita's 42 Libft-02 Score](https://badge42.vercel.app/api/v2/cl2rttbbw001109l7z1owgvam/project/2560991)](https://github.com/JaeSeoKim/badge42) | 2022-04-20 |
 | [Libft-03](https://github.com/TR-42/libft/tree/4051e69d9980d4284a10c4d6b9ff02e02bad381b) | [![kfujita's 42 Libft-03 Score](https://badge42.vercel.app/api/v2/cl2rttbbw001109l7z1owgvam/project/2567571)](https://github.com/JaeSeoKim/badge42) | 2022-04-21 |
 | [Libft-04](https://github.com/TR-42/libft/tree/v1.0.0) | [![kfujita's 42 Libft-04 Score](https://badge42.vercel.app/api/v2/cl2rttbbw001109l7z1owgvam/project/2568504)](https://github.com/JaeSeoKim/badge42) | 2022-04-22 |
+
+## Events
+
+### "Tuning the backend" Contest (2022)
+
+by DreamArts
+
+2022-04-15T19:00+09:00 ~ 2022-04-17T17:00+09:00
+
+Final Mark: 456 (19th / 34)
+
+[![ryo-manba/42HoursTuningTheBackend](https://opengraph.githubassets.com/b796d7359e0accac1b48e43233ce60930207c42dec61331f0cab110b1af8256c/ryo-manba/42HoursTuningTheBackend)](https://github.com/ryo-manba/42HoursTuningTheBackend)
+
+### "Tuning the backend" Contest (2023)
+
+by DreamArts
+
+2023-06-16T19:00+09:00 ~ 2023-06-18T17:00+09:00
+
+Final Mark: 970 (14th / 20)
+
+[![TR-42/42HoursTuning2023: 42 Tokyoで開催するイベント管理](https://opengraph.githubassets.com/d4689cacb20c38739dcc26942eb4d58d58036d9bb12dfb2fba68782b5d161da0/TR-42/42HoursTuning2023)](https://github.com/TR-42/42HoursTuning2023)
