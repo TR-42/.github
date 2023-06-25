@@ -20,7 +20,13 @@ Final Mark: 7.07
 | [so_long](https://github.com/TR-42/so_long) | [![kfujita's 42 so_long Score](https://badge42.vercel.app/api/v2/cl2rttbbw001109l7z1owgvam/project/2995041)](https://github.com/JaeSeoKim/badge42) | 2023-04-29 |
 | [push_swap](https://github.com/TR-42/push_swap) | [![kfujita's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl2rttbbw001109l7z1owgvam/project/2620426)](https://github.com/JaeSeoKim/badge42) | 2023-03-16 |
 | [Philosophers](https://github.com/TR-42/philosophers) | [![kfujita's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl2rttbbw001109l7z1owgvam/project/3080305)](https://github.com/JaeSeoKim/badge42) | 2023-05-12 |
-| [minishell](https://github.com/TR-42/minishell) | [![kfujita's 42 minishell Score](https://badge42.vercel.app/api/v2/cl2rttbbw001109l7z1owgvam/project/3080913)](https://github.com/JaeSeoKim/badge42) |  |
+| [minishell](https://github.com/TR-42/minishell) | [![kfujita's 42 minishell Score](https://badge42.vercel.app/api/v2/cl2rttbbw001109l7z1owgvam/project/3080913)](https://github.com/JaeSeoKim/badge42) | 2023-06-15 |
+| NetPractice | [![kfujita's 42 NetPractice Score](https://badge42.vercel.app/api/v2/cl2rttbbw001109l7z1owgvam/project/3122875)](https://github.com/JaeSeoKim/badge42) | 2023-06-24 |
+| [CPP Module 00](https://github.com/TR-42/cpp00) | [![kfujita's 42 CPP Module 00 Score](https://badge42.vercel.app/api/v2/cl2rttbbw001109l7z1owgvam/project/3122877)](https://github.com/JaeSeoKim/badge42) | 2023-06-24 |
+| [CPP Module 01](https://github.com/TR-42/cpp01) | [![kfujita's 42 CPP Module 01 Score](https://badge42.vercel.app/api/v2/cl2rttbbw001109l7z1owgvam/project/3132734)](https://github.com/JaeSeoKim/badge42) |  |
+| [CPP Module 02](https://github.com/TR-42/cpp02) |  |  |
+| [CPP Module 03](https://github.com/TR-42/cpp03) |  |  |
+| [CPP Module 04](https://github.com/TR-42/cpp04) |  |  |
 
 | Exam Name | Score | Finished Date |
 | :---: | :---: | :---: |
