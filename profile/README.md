@@ -23,8 +23,8 @@ Final Mark: 7.07
 | [minishell](https://github.com/TR-42/minishell) | [![kfujita's 42 minishell Score](https://badge42.vercel.app/api/v2/cl2rttbbw001109l7z1owgvam/project/3080913)](https://github.com/JaeSeoKim/badge42) | 2023-06-15 |
 | NetPractice | [![kfujita's 42 NetPractice Score](https://badge42.vercel.app/api/v2/cl2rttbbw001109l7z1owgvam/project/3122875)](https://github.com/JaeSeoKim/badge42) | 2023-06-24 |
 | [CPP Module 00](https://github.com/TR-42/cpp00) | [![kfujita's 42 CPP Module 00 Score](https://badge42.vercel.app/api/v2/cl2rttbbw001109l7z1owgvam/project/3122877)](https://github.com/JaeSeoKim/badge42) | 2023-06-24 |
-| [CPP Module 01](https://github.com/TR-42/cpp01) | [![kfujita's 42 CPP Module 01 Score](https://badge42.vercel.app/api/v2/cl2rttbbw001109l7z1owgvam/project/3132734)](https://github.com/JaeSeoKim/badge42) |  |
-| [CPP Module 02](https://github.com/TR-42/cpp02) |  |  |
+| [CPP Module 01](https://github.com/TR-42/cpp01) | [![kfujita's 42 CPP Module 01 Score](https://badge42.vercel.app/api/v2/cl2rttbbw001109l7z1owgvam/project/3132734)](https://github.com/JaeSeoKim/badge42) | 2023-07-11 |
+| [CPP Module 02](https://github.com/TR-42/cpp02) | [![kfujita's 42 CPP Module 02 Score](https://badge42.vercel.app/api/v2/cl2rttbbw001109l7z1owgvam/project/3159170)](https://github.com/JaeSeoKim/badge42) |  |
 | [CPP Module 03](https://github.com/TR-42/cpp03) |  |  |
 | [CPP Module 04](https://github.com/TR-42/cpp04) |  |  |
 
